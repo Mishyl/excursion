@@ -20,7 +20,11 @@ html{
   background-color: black;
   text-align: center;
 }
-p linktodownload{
-  color: aquamarine;
+#linktodownload{
+  color: Aquamarine;
   font-size: 16px;
+}
+#Copyright{
+  text-align:right;
+  color: gray;
 }
